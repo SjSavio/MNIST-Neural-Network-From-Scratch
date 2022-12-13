@@ -3,6 +3,7 @@ import pandas as pd
 from math import e
 
 #structure of the neural network
+#first layer is the firstLayer that is not the input
 firstLayer = 50
 secondLayer = 10
 
