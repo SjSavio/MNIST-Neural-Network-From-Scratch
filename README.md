@@ -6,6 +6,7 @@ This project implements a simple feedforward neural network (multi-layer percept
 - No deep learning frameworks required (no TensorFlow, PyTorch, etc.)
 - Implements forward and backward propagation manually
 - Classifies digits 0-9 from the MNIST dataset
+- Achieves 90% accuracy on the test set
 
 ## Requirements
 - Python 3.x
